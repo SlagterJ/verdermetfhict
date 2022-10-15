@@ -97,3 +97,10 @@ p {
 .button.button-no:hover {
   box-shadow: 0 0 10px #f44336;
 }
+
+.github-link {
+  margin-top: 10px;
+
+  width: 30px;
+  height: 30px;
+}
