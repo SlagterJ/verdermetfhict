@@ -6,6 +6,7 @@ const questions = [
   "Heb je nog geen Stackoverflow account?",
   "Heb je deze week nog geen frikandellenbroodjes gehad?",
   "Heb jij de pooltafel gesloopt?",
+  "Weet je het zeker?",
   "Op een schaal van 1 tot 10, hoe lekker is Hizmet?",
   "Heb je al eens gehoord van Bavli Armanyous?",
 ];
